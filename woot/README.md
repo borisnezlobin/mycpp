@@ -1,0 +1,1 @@
+In this directory resides my code for the [AoPS CodeWOOT course](https://artofproblemsolving.com/school/woot-code), along with some misecleianineous solutions to Codeforces and USACO Train problems.
