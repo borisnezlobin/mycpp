@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
-typdef long long ll;
+typedef long long ll;
 
-int[] base = {
-    {0, 5, 4},
-    {7, 3, -1},
-    {2, 1, 6}
-}
+ll base[3][3] = {
+    { 0, 5, 4 },
+    { 7, 3, -1 },
+    { 2, 1, 6 }
+};
 
 int main(){
     ll k = 0;
