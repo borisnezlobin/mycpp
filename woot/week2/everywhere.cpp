@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define INF numeric_limits<int>::max()
+#define INF numeric_limits<int>::max() + 100
 typedef long long ll;
 
 int main(){
@@ -13,7 +13,7 @@ int main(){
 
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
-            if(i == j) table[i][j] == 0;
+            if(i == j) table[i][j] = 0;
             else table[i][j] = INF;
         }
     }
