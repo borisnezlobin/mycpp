@@ -1,0 +1,1 @@
+Solutions to the questions found on [usaco.training](https://usaco.training). Should be in order. Check comments, idk.
